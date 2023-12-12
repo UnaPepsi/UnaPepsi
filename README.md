@@ -12,6 +12,7 @@ I've made some projects for fun and learning:
 * Discord bot (gaymaster20)🐍
 * Clash Royale bot🐍
 * PC game (rats invadrs)🐍
+* Piano Tiles bot🐍
 * Mobile game (rats invaders)  <img src="https://cdn3.emoji.gg/emojis/7106-csharp.png" width="20px" height="20px" alt="CSharp"></a>
 * Simple Minecraft Plugin☕
 
