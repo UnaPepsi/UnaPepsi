@@ -9,7 +9,7 @@ My mother language is **Spanish**, I also speak (not C1) **English**. At this po
 One time I made a script that shuts down your computer and accidentally ran it. My goal in life is to not work at McDonald's 🍟
 
 I've made some projects for fun and learning:
-* Discord bot (gaymaster20)🐍
+* Discord bot (gm20)🐍
 * Clash Royale bot🐍
 * PC game (rats invaders)🐍
 * Piano Tiles bot🐍
