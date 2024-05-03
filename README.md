@@ -4,7 +4,7 @@
   <img src="https://imgs.xkcd.com/comics/python.png" alt="Anti-gravity">
 </div>
 
-I mainly code in **Python**, but occasionally in **Java** or **C#** (still learning them :v). I never used an Apple product and don't plan on doing so 🍎 <br>
+I mainly code in **Python**, but I've done some (small) projects on **Java** and **C#**. I never used an Apple product and don't plan on doing so 🍎 <br>
 My mother language is **Spanish**, I also speak (not C1) **English**. At this point I would've been able to speak **Esperanto** if Duolingo wasn't so shit at making decisions 🦉 <br>
 One time I made a script that shuts down your computer and accidentally ran it. My goal in life is to not work at McDonald's 🍟
 
