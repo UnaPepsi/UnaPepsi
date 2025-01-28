@@ -13,4 +13,4 @@ You can visit my page <a href='https://guimx.me'>here!</a>
 * Web Scrapping & API Integrations🐍
 * HCF MacroSwitcher🐍
 * Mobile game (rats invaders)  <img src="https://cdn3.emoji.gg/emojis/7106-csharp.png" width="20px" height="20px" alt="CSharp">
-* Minecraft Plugin☕
+* Minecraft Plugin (Permadeath & PokiSense)☕
