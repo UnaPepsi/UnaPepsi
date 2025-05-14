@@ -1,9 +1,9 @@
 <h1 align="center">Hello :)</h1>
 
-I mainly code in **Python**, but I've done some projects on **Java** and **Go** aswell<br>
-My mother language is **Spanish**, but I also speak **English**
+I usually code in **Python**, **Java**, and sometimes in **Go**<br>
+My mother language is **Spanish**, but I also speak **English**<br>
 Once I made a script that shuts down your computer and accidentally ran it <br>
-You can visit my page <a href='https://guimx.me'>here!</a>
+You can visit my page <a href='https://guimx.codes'>here!</a>
 
 ## Some projects I've made for fun and learning:
 * Discord bot (gm20 & UtilsBot)🐍
