@@ -1,6 +1,6 @@
 <h1 align="center">Hello :)</h1>
 
-I usually code in **Python**, **Java** and **Go**<br>
+I usually code in **Go**, **Java** and **Python**<br>
 My mother language is **Spanish**, but I also speak **English**<br>
 Once I made a script that shuts down your computer and accidentally ran it <br>
 You can visit my page <a href='https://guimx.codes'>here!</a>
